@@ -12,7 +12,7 @@ First of all, the following requirements should be downloaded and installed in t
 * Install the following extensions of OpenGL under the "Dependencies" folder located in the rooth of the project’s directory structure.
     * **[OpenGL Extension Wrangler Library (GLEW)](https://glew.sourceforge.net/)**
     * **[GLFW](https://www.glfw.org/)**
-    * **[OpenGL Mathematics (GLM](https://github.com/g-truc/glm))**
+    * **[OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)**
 
 The “Dependencies” folder should look like the following image:
 
