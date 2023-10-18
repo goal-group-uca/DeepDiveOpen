@@ -2,6 +2,7 @@ stb_image.cpp
 stb_image.h
 threadPool.h
 threadPool.cpp
+*.terrain
 *.obj
 *.enc
 *.ilk
