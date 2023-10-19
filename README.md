@@ -60,8 +60,7 @@ NOMINMAX;GLEW_STATIC
 
 ## Usage
 
-This section will serve as a guide of how to access all the aspects of the project and the controls of every mode that the engine has to offer. It assumes that the
-project was configured successfully. In consequence, refer to the previous section if you have not installed the engine.
+This section will serve as a guide of how to access all the aspects of the project and the controls of every mode that the engine has to offer. It assumes that the project was configured successfully. In consequence, refer to the previous section if you have not installed the engine.
 
 ### Start engine
 In order to start the engine, if the user wishes to **launch it with its Visual Studio project opened**, it can be done by pressing the F5 key. That will compile the project and launch it with the possibility of adding breakpoint 
