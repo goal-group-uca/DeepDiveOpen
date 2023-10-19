@@ -12,16 +12,23 @@ First of all, the following requirements should be downloaded and installed in t
 * Install the following extensions of OpenGL under the "Dependencies" folder located in the rooth of the project’s directory structure.
     * **[OpenGL Extension Wrangler Library (GLEW)](https://glew.sourceforge.net/)**
     * **[GLFW](https://www.glfw.org/)**
-    * **[OpenGL Mathematics (GLM](https://github.com/g-truc/glm))**
+    * **[OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)**
 
 The “Dependencies” folder should look like the following image:
 
+<img src='/imgs/install_deepdiveopen1.png'>
+
 The GLEW folder should look similar to the following screenshot:
+
+<img src='/imgs/install_deepdiveopen2.png'>
 
 The GLFW folder should have a similar appearance to the picture below:
 
+<img src='/imgs/install_deepdiveopen3.png'>
+
 The GLM folder should be like the next figure:
 
+<img src='/imgs/install_deepdiveopen4.png'>
 
 Once all of this is properly done, open the .sln file found at the project’s directory.
 
@@ -53,8 +60,7 @@ NOMINMAX;GLEW_STATIC
 
 ## Usage
 
-This section will serve as a guide of how to access all the aspects of the project and the controls of every mode that the engine has to offer. It assumes that the
-project was configured successfully. In consequence, refer to the previous section if you have not installed the engine.
+This section will serve as a guide of how to access all the aspects of the project and the controls of every mode that the engine has to offer. It assumes that the project was configured successfully. In consequence, refer to the previous section if you have not installed the engine.
 
 ### Start engine
 In order to start the engine, if the user wishes to **launch it with its Visual Studio project opened**, it can be done by pressing the F5 key. That will compile the project and launch it with the possibility of adding breakpoint 
