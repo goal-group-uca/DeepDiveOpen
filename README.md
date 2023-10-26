@@ -16,19 +16,19 @@ First of all, the following requirements should be downloaded and installed in t
 
 The “Dependencies” folder should look like the following image:
 
-<img src='/imgs/install_deepdiveopen1.png'>
+<img src='/imgs/install_gagi1.png'>
 
 The GLEW folder should look similar to the following screenshot:
 
-<img src='/imgs/install_deepdiveopen2.png'>
+<img src='/imgs/install_gagi2.png'>
 
 The GLFW folder should have a similar appearance to the picture below:
 
-<img src='/imgs/install_deepdiveopen3.png'>
+<img src='/imgs/install_gagi3.png'>
 
 The GLM folder should be like the next figure:
 
-<img src='/imgs/install_deepdiveopen4.png'>
+<img src='/imgs/install_gagi4.png'>
 
 Once all of this is properly done, open the .sln file found at the project’s directory.
 
