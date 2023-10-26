@@ -1,5 +1,5 @@
-# Deep Dive Open Engine.
- DeepDiveOpen is an open-source custom 3D graphics engine written in C++ and OpenGL with the capability of letting the user define a custom game where the players are agents controlled by Artificial Intelligence (AI). It serves as a Artificial General Intelligence (AGI) testing ground, obtaining significant information about how the AI agent behaves when it tries to complete its task. Furthermore, the source code is documented and easy to understand for other researchers and developers allowing to extend the functionality of the engine
+# GAGI: Game Engine for Artificial General Intelligence Experimentation
+ GAGI is an open-source custom 3D graphics engine written in C++ and OpenGL with the capability of letting the user define a custom game where the players are agents controlled by Artificial Intelligence (AI). It serves as a Artificial General Intelligence (AGI) testing ground, obtaining significant information about how the AI agent behaves when it tries to complete its task. Furthermore, the source code is documented and easy to understand for other researchers and developers allowing to extend the functionality of the engine
 
 ## Installation
 This section will serve as a guide on installing the project that contains the engine’s code and all of its resources in order to either modify it directly or add new content such as custom defined AI games.
@@ -124,7 +124,7 @@ Additionally, the user can access an options menu by pressing the Escape key. It
 
 If it is a new feature request (e.g., a new functionality), post an issue to discuss this new feature before you start coding. If the project owner approves it, assign the issue to yourself and then do the steps above.
 
-Thank you for contributing to DeepDiveOpen. 
+Thank you for contributing to GAGI. 
 
 ## License
  This project is licensed under the GPL License - see the LICENSE.md file for details. 
