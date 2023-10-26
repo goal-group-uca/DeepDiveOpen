@@ -8,7 +8,7 @@ First of all, the following requirements should be downloaded and installed in t
 * **[Visual Studio (2019)](https://visualstudio.microsoft.com/es/vs/older-downloads/)**. For opening the project that contains the engine’s code.
 * **[OpenGL](https://www.khronos.org/opengl/wiki/Getting_Started#Downloading_OpenGL)**
 * **[ArrayFire](https://arrayfire.com/)**. It is important to write down its installation directory as it will be used later in this document.
-* **[Library stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h)**. Must be installed in “\Deep dive open\code\Externalcode”, being the root directory of this address the root directory of the project. Do not remove the stb_image.cpp file found already in said directory.
+* **[Library stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h)**. Must be installed in “\src\code\Externalcode”, being the root directory of this address the root directory of the project. Do not remove the stb_image.cpp file found already in said directory.
 * Install the following extensions of OpenGL under the "Dependencies" folder located in the rooth of the project’s directory structure.
     * **[OpenGL Extension Wrangler Library (GLEW)](https://glew.sourceforge.net/)**
     * **[GLFW](https://www.glfw.org/)**
