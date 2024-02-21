@@ -3,6 +3,7 @@
 
 ## How to cite
 If you use GAGI, please cite this article:
+https://doi.org/10.1016/j.softx.2024.101665
 
 ### APA
 
