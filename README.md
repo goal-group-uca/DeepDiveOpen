@@ -1,6 +1,27 @@
 # GAGI: Game Engine for Artificial General Intelligence Experimentation
  GAGI is an open-source custom 3D graphics engine written in C++ and OpenGL with the capability of letting the user define a custom game where the players are agents controlled by Artificial Intelligence (AI). It serves as a Artificial General Intelligence (AGI) testing ground, obtaining significant information about how the AI agent behaves when it tries to complete its task. Furthermore, the source code is documented and easy to understand for other researchers and developers allowing to extend the functionality of the engine
 
+## How to cite
+If you use GAGI, please cite this article:
+
+### APA
+
+> de la Torre, J. C., Aragón-Jurado, J. M., Crespo-Álvarez, A., & Bárcena-González, G. (2024). GAGI: Game engine for Artificial General Intelligence experimentation. *SoftwareX*, 26, 101665.
+
+### Bibtex
+```
+@article{delaTorre2024gagi,
+title = {{GAGI}: Game engine for Artificial General Intelligence experimentation},
+author = {Juan Carlos {de la Torre} and José M. Aragón-Jurado and Abdón Crespo-Álvarez and Guillermo Bárcena-González},
+journal = {SoftwareX},
+volume = {26},
+pages = {101665},
+year = {2024},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2024.101665},
+}
+```
+
 ## Installation
 This section will serve as a guide on installing the project that contains the engine’s code and all of its resources in order to either modify it directly or add new content such as custom defined AI games.
 
